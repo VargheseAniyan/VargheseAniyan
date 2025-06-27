@@ -1,46 +1,48 @@
 # 👋 Hi, I'm Varghese K. Aniyan
 
-## Senior Software Engineer @ Shopalyst | Full-Stack Developer | Backend Specialist
+### 🚀 Senior Software Engineer @ Shopalyst Technologies  
+*Backend Specialist | Full-Stack Developer | System Thinker*
 
-I'm a developer who builds systems that work — clean APIs, robust data flows, and internal tools that don't need manuals.
-
-Currently working at **Shopalyst Technologies**, where I architect and implement solutions across search, commerce, and data infrastructure.
-
----
-
-### 🧰 Tech Stack
-
-- 🧩 **Languages**: Java | Python | Go | Node.js | JavaScript (Vue.js)
-- ⚙️ **Backend**: FastAPI, Express, REST APIs, Microservices
-- 🌐 **Frontend**: Vue 3, Vuetify, Vite
-- 📦 **Messaging & Infra**: NSQ, Kafka, Redis, S3, Docker
-- 🔍 **Data & Search**: Elasticsearch, Solr, Cassandra, Parquet
-- ☁️ **Dev Tools**: GitHub Actions, Multipass, Kibana, Postman
+I build systems that scale — clean APIs, reliable data pipelines, internal tools, and performant services across multiple stacks.
 
 ---
 
-### 🔭 What I Do
+## 🧰 Tech Stack
 
-- Design and optimize backend systems handling high-throughput data
-- Build and refactor APIs across multiple languages
-- Develop internal tools and dashboards in Vue.js + Vuetify
-- Write batch jobs, listeners, and data processors that scale and last
-
----
-
-### 💡 Core Principles
-
-- 🔄 Prefer simplicity and observability in architecture
-- 🧠 Focus on maintainability and traceability
-- 🚀 Build async, performant systems for real-world scale
-- 🧹 Don’t ship what you wouldn’t debug at 2AM
+- 🧩 **Languages**: Java • Python • Go • Node.js • Vue.js
+- ⚙️ **Backend**: FastAPI • Express • REST APIs • Microservices
+- 🌐 **Frontend**: Vue 3 • Vuetify • Vite
+- 📦 **Messaging & Infra**: NSQ • Kafka • Redis • S3 • Docker
+- 🔍 **Data & Search**: Elasticsearch • Solr • Cassandra • Parquet
+- 🛠️ **Dev Tools**: GitHub Actions • Multipass • Kibana • Postman
 
 ---
 
-> “Tech should be invisible when it's working — and fixable when it's not.”
+## 🔭 What I Work On
+
+- Designing backend systems that handle scale & concurrency  
+- Building APIs in Go, Python, Java & Node.js  
+- Migrating and maintaining Vue.js + Vuetify internal tools  
+- Powering ONDC integrations and catalog systems  
+- Implementing batch jobs, consumers, and internal listeners
 
 ---
 
-### 📫 Reach Out
+## 🧠 Principles I Work By
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/varghesekaniyan/)
+- ✅ Keep systems observable and debuggable  
+- 🔁 Prefer clear boundaries and clean interfaces  
+- 🧹 Don't ship what I wouldn't debug at 2AM  
+- 💡 Maintainability > cleverness  
+- 🧪 Measure, test, and improve constantly
+
+---
+
+> _“Tech should be invisible when it's working — and fixable when it's not.”_
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/varghese-aniyan/)
+- [GitHub Projects](https://github.com/VargheseAniyan?tab=repositories)
