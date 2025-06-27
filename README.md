@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Varghese Aniyan
+# 👋 Hi, I'm Varghese K. Aniyan
 
 ## Senior Software Engineer @ Shopalyst | Full-Stack Developer | Backend Specialist
 
